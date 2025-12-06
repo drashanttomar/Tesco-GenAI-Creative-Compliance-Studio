@@ -264,7 +264,7 @@ This is an internal Tesco proprietary project. For contribution guidelines, plea
 
 ## 🌟 Project Vision
 
-Tesco GenAI Creative Compliance Studio aims to become a **scalable, self-service creative ecosystem** for retail media—where every asset is generated, validated, and optimized automatically, ensuring both compliance and creativity at speed. The platform represents a paradigm shift in retail advertising, combining AI innovation with rigorous brand governance to deliver professional-quality creatives in minutes while removing risk, cost, and design complexity.
+Tesco GenAI Creative Compliance Studio aims to become a **scalable, self-service creative ecosystem** for retail media—where every asset is generated, validated, and optimized automatically, ensuring both compliance and creativity at speed. The platform represents a paradigm shift in retail advertising, combining AI innovation with rigorous brand governance to deliver professional-quality creatives in minutes while removing risk, cost, and design a complexity.
 
 ---
 
